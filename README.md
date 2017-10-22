@@ -1,5 +1,5 @@
 # Course project or Applied Stochastic Processes
 
-## Project topic: 
+## Project topic: Option pricing under Constant Elasticity of Variance (CEV) model
 
-## Team members:
+## Team members: YU Fangzhou, SUN Zhicheng, XU Kaizhou
